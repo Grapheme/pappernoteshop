@@ -1,0 +1,8 @@
+.pavcol-sm-5 {
+    float: left;
+    min-height: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    width: 20% !important;
+}
